@@ -18,9 +18,6 @@ This framework empowers developers to build autonomous, multi-model AI teams tha
 This project utilizes standard `pip`. Use Python 3.10+ for native `asyncio` features.
 
 ```bash
-# Clone the repository and navigate into the python package
-cd python/
-
 # Install the minimal dependencies
 pip install -r requirements.txt
 ```
